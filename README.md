@@ -19,4 +19,7 @@
 - 정보처리기사 – 한국산업인력공단 (2022.06)
 - AWS Certified Developer – Associate – Amazon Web Services (2023.10)
 - SQLD (SQL 개발자) – 한국데이터산업진흥원 (2025.04)
+
+  
+### 📜 Language
 - OPIc (IH) – ACTFL (2025.04)
