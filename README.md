@@ -1,6 +1,6 @@
 ### 🏫 Education
 - 홍익대학교 공과대학 컴퓨터공학과 [2015.03-2022.02]
-- Samsung SW·AI academy For Youth (SSAFY) [2025.07-ing]
+- Samsung SW·AI academy For Youth (SSAFY) CA [2025.07-ing]
 
 ### 💻 Experience
 - [(주)웨이브아메리카스(KOCOWA)](https://corp.kocowa.com) 백엔드팀 서버 개발자 [2022.06 - 2024.05]
