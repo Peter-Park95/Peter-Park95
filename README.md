@@ -3,6 +3,7 @@
 - Samsung SW·AI academy For Youth (SSAFY) CA [2025.07-ing]
 
 ### 💻 Experience
+- [BNK 부산은행 (https://www.busanbank.co.kr)] 디지털금융개발부 디지털혁신계 [2025.11 - NOW]
 - [(주)웨이브아메리카스(KOCOWA)](https://corp.kocowa.com) 백엔드팀 서버 개발자 [2022.06 - 2024.05]
 - [(주)한국호야렌즈](https://www.hoyavision.com/kr) IT지원팀 사원 (대학 연계 단기인턴) [2021.10-2021.12]
 
